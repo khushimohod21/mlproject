@@ -1,4 +1,4 @@
-pamdas
+pandas
 numpy
 seaborn
 -e .
